@@ -33,12 +33,13 @@ Table of Contents:
     Detecting/Handling Outliers with a Z-Score
     
 3. Exploratory Data Analysis:
-    Correlations
-    Pairplots
-    Filtering data by Tasty & Non-Tasty 
-    Kernel Density Estimation (KDE)
-    Regression Joint Plot
-    Comparing Tasty & Non-Tasty Red Wine¶
+   Correlations, 
+   Pairplots,
+   Feature Engineering, 
+   Kernel Density Estimation (KDE), 
+   Regression Joint Plot,
+   Bar Plots, 
+   Violin & Box Plots
     
 
 4. Machine Learning + Predictive Analytics:
