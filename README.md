@@ -9,7 +9,7 @@ Author: Jarar Zaidi
 
 Date: 6/14/2020
 
-Medium Link to project: 
+Medium Link to project: https://medium.com/@jararzaidi/project-maximizing-red-wine-profits-with-regression-machine-learning-algorithms-8caad2a10a08
 
 ---------
 This project consists of these files:
