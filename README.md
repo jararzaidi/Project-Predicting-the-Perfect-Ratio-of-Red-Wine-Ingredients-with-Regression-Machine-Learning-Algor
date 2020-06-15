@@ -45,6 +45,7 @@ Table of Contents:
 4. Machine Learning + Predictive Analytics:
     Prepare Data for Modeling
     Modeling/Training
+    R² Values
     Predictions
     K-Fold Cross Validation
   
