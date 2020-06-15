@@ -1,4 +1,4 @@
-# Project-Predicting-Red-Wine-Quality-with-Regression-Machine-Learning-Algorithms
+# Project: Maximizing Red Wine Profits with Regression Machine Learning Algorithms
  Predict the perfect ratio of ingredients for red wine. This is a numerical discrete outcome. 
  Explore with various Regression Models &amp; see which yields  greatest accuracy.
  Examine trends &amp; correlations within our data. 
