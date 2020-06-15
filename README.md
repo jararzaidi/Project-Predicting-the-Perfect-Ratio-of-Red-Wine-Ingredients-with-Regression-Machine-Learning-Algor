@@ -19,8 +19,8 @@ Predicting Red Wine Quality with Regression Machine Learning Algorithms.ipynb - 
 Predicting Red Wine Quality with Regression Machine Learning Algorithms.py - the Python (.py) version of this project 
 
 wineQuality.csv - Original dataset used from Kaggle.com in CSV (.csv) format
----------
 
+---------
 Table of Contents:  
 
 1. Introduction:
